@@ -8,4 +8,4 @@
 
 ## Requisitos:
 
-Blender 4.1,  [sitio oficial](https://www.blender.org/download/).
+Blender 4.1.1,  [sitio oficial](https://www.blender.org/download/).
